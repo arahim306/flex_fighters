@@ -9,7 +9,6 @@
 // ****** INCLUDE FILES ****** //
 #include "sam.h"
 #include "sram.h"
-//#include "timer.h"
 #include "clk.h"
 #include "spi.h"
 #include "flash.h"
